@@ -1,0 +1,28 @@
+{
+  "name": "minify-query-string",
+  "version": "1.0.0",
+  "description": "Minify SQL-query strings for testing purposes",
+  "main": "minify-query-string.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ohar/minify-query-string.git"
+  },
+  "keywords": [
+    "query",
+    "sql",
+    "test"
+  ],
+  "author": "Pavel Lysenko aka Ohar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ohar/minify-query-string/issues"
+  },
+  "homepage": "https://github.com/Ohar/minify-query-string#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
